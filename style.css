@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.myNavbar {
+    color:darkgrey;
+    background-color: dimgrey;
+    width: auto
+}
+
+.icon-bar {
+    color: aqua;
+}
