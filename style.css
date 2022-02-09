@@ -2,10 +2,15 @@ body {
     text-align: center;
 }
 
+#twitter.png {
+    height: 50px;
+    width: 50px;
+    }
+
 .myNavbar {
     color:darkgrey;
     background-color: dimgrey;
-    width: auto
+    width: auto;
 }
 
 .icon-bar {
@@ -14,11 +19,11 @@ body {
 
 .column {
     float: left;
-    width: 33.33%
-        padding:5px;
+    width: 33.33%;
+     padding: 5px;
 }
 
-img {
+#img {
     width:700px;
     height:700px;
 }
@@ -36,3 +41,10 @@ img {
     width: 100px;
     height: 100px;
 }
+
+    #navigation-bar {
+    color: darkgrey;
+    position: sticky;
+    top: 0;
+    z-index: 99999
+    }
